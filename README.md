@@ -1,8 +1,8 @@
-### SCT_NOV24-5446_TSK 1
-### SCT_NOV24-5446_TSK 2
-### SCT_NOV24-5446_TSK 3
+### SCT_DS_TSK 1
+### SCT_DS_TSK 2
+### SCT_DS_TSK 3
 
-# SCT_NOV24-5446_TSK 1
+# SCT_DS_TSK 1
 
 # Population Data Visualization: SkillCraft Technology Internship Task 1
 ## Overview
@@ -42,7 +42,7 @@ Gender-Specific Population: Two additional bar charts visualize the top 10 count
 ### 5. Visualization Customization
 Value labels are added to the bars in the charts to provide exact population values, and the layout is adjusted for clarity.
 
-# SCT_NOV24-5446-TSK 2
+# SCT_DS-TSK 2
 
 # Titanic Dataset - Data Cleaning and Exploratory Data Analysis (EDA)
 This repository contains an analysis of the Titanic dataset available on Kaggle. The goal of this project was to perform data cleaning and exploratory data analysis (EDA) to identify patterns and trends in the data that may help predict the survival of passengers aboard the Titanic. This was an internship task as part of SkillCraft Technology's Data Science program.
@@ -82,7 +82,7 @@ Younger passengers had a higher chance of survival.
 Passengers who embarked at Cherbourg (C) had a higher survival rate than those who embarked at Southampton (S) or Queenstown (Q).
 
 
-### SCT_NOV24-5446_TSK 3
+### SCT_DS_TSK 3
 
 # Decision Tree Classifier for Predicting Customer Purchases
 
