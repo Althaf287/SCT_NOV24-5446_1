@@ -1,6 +1,8 @@
 # SCT_NOV24-5446-TSK 1
 # SCT_NOV24-5446-TSK 2
 
+# SCT_NOV24-5446-TSK 1
+
 # Population Data Visualization: SkillCraft Technology Internship Task 1
 ## Overview
 This project visualizes the distribution of population data for various countries around the world, with a focus on the year 2010. The task involves creating bar charts to visualize the top 10 and bottom 10 countries by total population, as well as exploring gender-specific populations (male and female) in these countries.
