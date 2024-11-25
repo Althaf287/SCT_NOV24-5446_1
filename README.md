@@ -132,21 +132,6 @@ The goal is to predict the value of the `y` column, which indicates whether a cu
     - Generate a confusion matrix heatmap to visualize performance.
     - Create additional visualizations such as feature importance, ROC curve, and precision-recall curve to further evaluate the model.
 
-### Requirements
-
-To run this project, you'll need the following Python libraries:
-
-- `pandas`: For data manipulation.
-- `numpy`: For numerical operations.
-- `matplotlib`: For plotting graphs.
-- `seaborn`: For enhanced data visualizations.
-- `scikit-learn`: For building the Decision Tree model and evaluation.
-
-You can install these dependencies using `pip`:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-
 
 ## SCT_DS_TSK 4
 
